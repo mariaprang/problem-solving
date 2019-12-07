@@ -6,6 +6,8 @@ import java.util.Map;
 public class SingleNumber {
 
     /*
+    Link: https://leetcode.com/problems/single-number-ii/
+    
     Given a non-empty array of integers,
     every element appears three times except for one, which appears exactly once. Find that single one.
     Example 1:
